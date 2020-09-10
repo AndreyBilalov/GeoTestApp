@@ -1,0 +1,47 @@
+﻿
+
+<div id="locations">
+
+    <div class="mainTitle">
+        <h2>Поиск координат</h2>
+    </div>
+
+    <div class="addNewlocation">
+        <p class="locationItemData">Место: <input data-bind="value: locationViewModel().address" size="50" /></p>
+        <a href="#" data-bind="click: addlocation">Искать</a>
+        <span data-bind="visible: locationViewModel().isSendingToServer">Идет поиск...</span>
+        <div class="errors" data-bind="visible: locationViewModel().errors().length > 0">
+            <ul data-bind="foreach: locationViewModel().errors">
+                <li><span data-bind="text: $data"></span></li>
+            </ul>
+
+        </div>
+    </div>
+
+    <p><span data-bind="text: locationsLoadingState, visibility: locationsLoadingState().length > 0"></span></p>
+
+    <ul data-bind="foreach: locations" class="locationList">
+
+        <li class="locationItem">
+            <div class="locationItemData">
+                <span data-bind="text: id, visible: false"> </span>
+                <span data-bind="text: address"> </span>
+            </div>
+
+            <div class="itemSettings">
+                
+                <a href="#" data-bind="click: save">Отобразить в консоли</a>
+             
+
+            </div>
+
+            <div class="errors" data-bind="visible: errors().length > 0">
+                <ul data-bind="foreach: errors">
+                    <li><span data-bind="text: $data"></span></li>
+                </ul>
+
+            </div>
+
+        </li>
+    </ul>
+</div>

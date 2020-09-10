@@ -1,0 +1,87 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: rgb(226, 230, 235);
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#locations {
+    min-height: 500px;
+}
+
+    #locations a {
+        text-decoration: none;
+        border: 1px solid black;
+        border-radius: 4px;
+        background-color: lightgoldenrodyellow;
+        padding: 5px;
+        color: black;
+    }
+
+a:hover, active {
+    background-color: white;
+    color: red;
+}
+
+.addNewlocation {
+    padding: 15px 10px;
+    margin: 0px;
+    border: 4px solid lightskyblue;
+    background-color: white;
+    margin-bottom: 5px;
+    width: 750px;
+}
+
+.locationList {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.locationItem {
+    padding: 15px 10px;
+    margin: 0px;
+    border: 4px solid lightskyblue;
+    background-color: white;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    width: 750px;
+}
+
+    .locationItem:hover {
+        background-color: lightskyblue;
+        border-color: orangered;
+        color: white;
+    }
+
+.locationItemData {
+    min-width: 70%;
+    display: inline-block;
+    margin: 5px;
+}
+
+.itemSettings {
+    text-align: right;
+    display: inline-block;
+}
+
+input {
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.errors {
+    color: red;
+}

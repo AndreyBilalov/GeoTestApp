@@ -1,0 +1,228 @@
+INFO  2020-09-10 01:38:23,738 59877ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 02:00:19,338 76765ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 02:00:28,056 85483ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 02:00:35,035 92462ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 02:57:58,222 45454ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 02:58:22,344 69576ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:33:40,370 52671ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:33:44,338 56639ms WebApi                 LogMessage         - A error occuredSystem.Exception: Not Found
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<GetGeoObjects>d__5.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 56
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.ApplicatinLayer.GeoSearchApplication.<GetCoordinatesByQueryAddress>d__2.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.ApplicatinLayer\GeoSearchApplication.cs:строка 24
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.WebApi.Controllers.GeoController.<Get>d__3.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.WebApi\Controllers\GeoController.cs:строка 36
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__1`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__6.MoveNext()
+INFO  2020-09-10 03:36:30,430 29928ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:36:32,755 32254ms WebApi                 LogMessage         - A error occuredSystem.Exception: Not Found
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<GetGeoObjects>d__5.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 56
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.ApplicatinLayer.GeoSearchApplication.<GetCoordinatesByQueryAddress>d__2.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.ApplicatinLayer\GeoSearchApplication.cs:строка 24
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.WebApi.Controllers.GeoController.<Get>d__3.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.WebApi\Controllers\GeoController.cs:строка 36
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__1`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__6.MoveNext()
+INFO  2020-09-10 03:38:49,544 23132ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:41:06,518 28691ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:43:36,587 62363ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:46:07,161 53087ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:48:23,294 21156ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:48:45,012 42874ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:49:00,720 58582ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:49:08,698 66560ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 03:49:18,631 76493ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 04:04:45,232 44942ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 04:15:50,000 140648ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 04:15:58,191 148839ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 04:22:46,334 56178ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 04:28:36,679 28872ms WebApi                 LogMessage         - hello i am logging
+INFO  2020-09-10 05:29:33,145 133968ms WebApi                 LogMessage         - Newtonsoft.Json.JsonReaderException: Error reading double. Unexpected token: StartArray. Path '[9].geojson.coordinates[0][0]', line 1, position 531198.
+   в Newtonsoft.Json.JsonReader.ReadAsDouble()
+   в Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   в Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType, JsonSerializer jsonSerializer)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject[T]()
+   в GeoTestApp.GeoServiceLibrary.GeoObject.GeoObjectFactory.Create(JToken geoJson) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\Helpers\GeoObjectFactory.cs:строка 20
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<>c.<GetGeoObjects>b__4_1(JToken x) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 55
+   в System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.GetGeoObjects(JToken jObject) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 55
+INFO  2020-09-10 05:29:33,438 134261ms WebApi                 LogMessage         - A error occuredNewtonsoft.Json.JsonReaderException: Error reading double. Unexpected token: StartArray. Path '[9].geojson.coordinates[0][0]', line 1, position 531198.
+   в Newtonsoft.Json.JsonReader.ReadAsDouble()
+   в Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   в Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType, JsonSerializer jsonSerializer)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject[T]()
+   в GeoTestApp.GeoServiceLibrary.GeoObject.GeoObjectFactory.Create(JToken geoJson) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\Helpers\GeoObjectFactory.cs:строка 20
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<>c.<GetGeoObjects>b__4_1(JToken x) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 55
+   в System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.GetGeoObjects(JToken jObject) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 64
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<GetGeoObjects>d__3.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 38
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.ApplicatinLayer.GeoSearchApplication.<GetCoordinatesByQueryAddress>d__2.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.ApplicatinLayer\GeoSearchApplication.cs:строка 23
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.WebApi.Controllers.GeoController.<Get>d__3.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.WebApi\Controllers\GeoController.cs:строка 34
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__1`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__6.MoveNext()
+INFO  2020-09-10 05:29:48,843 149666ms WebApi                 LogMessage         - Newtonsoft.Json.JsonReaderException: Error reading double. Unexpected token: StartArray. Path '[0].geojson.coordinates[0][0]', line 1, position 537.
+   в Newtonsoft.Json.JsonReader.ReadAsDouble()
+   в Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   в Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType, JsonSerializer jsonSerializer)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject[T]()
+   в GeoTestApp.GeoServiceLibrary.GeoObject.GeoObjectFactory.Create(JToken geoJson) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\Helpers\GeoObjectFactory.cs:строка 20
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<>c.<GetGeoObjects>b__4_1(JToken x) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 55
+   в System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.GetGeoObjects(JToken jObject) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 55
+INFO  2020-09-10 05:29:48,979 149802ms WebApi                 LogMessage         - A error occuredNewtonsoft.Json.JsonReaderException: Error reading double. Unexpected token: StartArray. Path '[0].geojson.coordinates[0][0]', line 1, position 537.
+   в Newtonsoft.Json.JsonReader.ReadAsDouble()
+   в Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   в Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   в Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType, JsonSerializer jsonSerializer)
+   в Newtonsoft.Json.Linq.JToken.ToObject(Type objectType)
+   в Newtonsoft.Json.Linq.JToken.ToObject[T]()
+   в GeoTestApp.GeoServiceLibrary.GeoObject.GeoObjectFactory.Create(JToken geoJson) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\Helpers\GeoObjectFactory.cs:строка 20
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<>c.<GetGeoObjects>b__4_1(JToken x) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 55
+   в System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.GetGeoObjects(JToken jObject) в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 64
+   в GeoTestApp.GeoServiceLibrary.NominationGeoService.<GetGeoObjects>d__3.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.GeoServiceLibrary\NominationGeoService.cs:строка 38
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.ApplicatinLayer.GeoSearchApplication.<GetCoordinatesByQueryAddress>d__2.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.ApplicatinLayer\GeoSearchApplication.cs:строка 23
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в GeoTestApp.WebApi.Controllers.GeoController.<Get>d__3.MoveNext() в C:\Users\Samsung R730\source\repos\GeoTestApp\GeoTestApp.WebApi\Controllers\GeoController.cs:строка 34
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__1`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__6.MoveNext()
